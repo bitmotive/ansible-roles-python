@@ -1,0 +1,9 @@
+[submodule "uwsgi"]
+	path = uwsgi
+	url = git@github.com:bitmotive/ansible-role-uwsgi.git
+[submodule "python"]
+	path = python
+	url = git@github.com:bitmotive/ansible-role-python.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:bitmotive/ansible-role-postgresql.git
