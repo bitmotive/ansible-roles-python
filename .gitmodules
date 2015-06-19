@@ -7,3 +7,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = git@github.com:bitmotive/ansible-role-postgresql.git
+[submodule "python34"]
+	path = python34
+	url = git@github.com:bitmotive/ansible-role-python34.git
